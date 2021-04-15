@@ -1,12 +1,13 @@
 package main
 
 import (
-	"github.com/gofiber/fiber/v2/middleware/recover"
-	"github.com/gofiber/fiber/v2/middleware/cors"
-	"github.com/gofiber/fiber/v2"
 	"log"
-	_ "github.com/rizalgowandy/go-swag-sample/docs/fibersimple" // you need to update github.com/rizalgowandy/go-swag-sample with your own project path
+
 	swagger "github.com/arsmn/fiber-swagger/v2"
+	"github.com/gofiber/fiber/v2"
+	"github.com/gofiber/fiber/v2/middleware/cors"
+	"github.com/gofiber/fiber/v2/middleware/recover"
+	_ "github.com/rizalgowandy/go-swag-sample/docs/fibersimple" // you need to update github.com/rizalgowandy/go-swag-sample with your own project path
 )
 
 // @title Fiber Swagger Example API
