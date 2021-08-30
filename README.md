@@ -4,18 +4,13 @@
 
 ![gdk](https://socialify.git.ci/rizalgowandy/go-swag-sample/image?description=1&language=1&pattern=Floating%20Cogs&theme=Light)
 
-## Getting Started
-
-Generate Swagger / OpenAPI Specification for your API.
-
-### List samples:
+## List samples:
 
 * echosimple: super simple echo server.
 * fibersimple: super simple fiber server.
 * ginsimple: super simple gin server.
 * echomicroservice: echo server with several binary with split server and routing folders.
 
-### How to create step by step:
+## How to create step by step:
 
 * [echosimple](https://medium.com/@rizal.gow/tutorial-generate-swagger-specification-and-swaggerui-for-echo-go-web-framework-3ac33afc77e2)
-
