@@ -2,7 +2,7 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/rizalgowandy/go-swag-sample)](https://goreportcard.com/report/github.com/rizalgowandy/go-swag-sample)
 [![Sourcegraph](https://sourcegraph.com/github.com/rizalgowandy/go-swag-sample/-/badge.svg)](https://sourcegraph.com/github.com/rizalgowandy/go-swag-sample?badge)
 
-![gdk](https://socialify.git.ci/rizalgowandy/go-swag-sample/image?description=1&language=1&pattern=Floating%20Cogs&theme=Light)
+![logo](https://socialify.git.ci/rizalgowandy/go-swag-sample/image?description=1&language=1&pattern=Floating%20Cogs&theme=Light)
 
 ## List samples:
 
